@@ -1,0 +1,8 @@
+C:\Users\Ucenik08\Desktop\Knjiznica-master (1)\Knjiznica-master\bin\Debug\Knjiznica.exe
+C:\Users\Ucenik08\Desktop\Knjiznica-master (1)\Knjiznica-master\bin\Debug\Knjiznica.pdb
+C:\Users\Ucenik08\Desktop\Knjiznica-master (1)\Knjiznica-master\obj\Debug\Knjiznica.csproj.AssemblyReference.cache
+C:\Users\Ucenik08\Desktop\Knjiznica-master (1)\Knjiznica-master\obj\Debug\Knjiznica.Properties.Resources.resources
+C:\Users\Ucenik08\Desktop\Knjiznica-master (1)\Knjiznica-master\obj\Debug\Knjiznica.csproj.GenerateResource.cache
+C:\Users\Ucenik08\Desktop\Knjiznica-master (1)\Knjiznica-master\obj\Debug\Knjiznica.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik08\Desktop\Knjiznica-master (1)\Knjiznica-master\obj\Debug\Knjiznica.exe
+C:\Users\Ucenik08\Desktop\Knjiznica-master (1)\Knjiznica-master\obj\Debug\Knjiznica.pdb
