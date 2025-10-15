@@ -16,7 +16,7 @@ namespace Knjiznica.Model
 
         public string Telefon { get; set; }
 
-        public string Razred { get; set; }
+        public int Razred { get; set; }
 
         public override string ToString()
         {

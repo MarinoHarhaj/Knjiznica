@@ -6,3 +6,16 @@ C:\Users\Ucenik08\Desktop\Knjiznica-master (1)\Knjiznica-master\obj\Debug\Knjizn
 C:\Users\Ucenik08\Desktop\Knjiznica-master (1)\Knjiznica-master\obj\Debug\Knjiznica.csproj.CoreCompileInputs.cache
 C:\Users\Ucenik08\Desktop\Knjiznica-master (1)\Knjiznica-master\obj\Debug\Knjiznica.exe
 C:\Users\Ucenik08\Desktop\Knjiznica-master (1)\Knjiznica-master\obj\Debug\Knjiznica.pdb
+C:\Users\Ucenik08\Desktop\Knjiznica-master\Knjiznica-master\bin\Debug\Knjiznica.exe
+C:\Users\Ucenik08\Desktop\Knjiznica-master\Knjiznica-master\bin\Debug\Knjiznica.pdb
+C:\Users\Ucenik08\Desktop\Knjiznica-master\Knjiznica-master\obj\Debug\Knjiznica.csproj.AssemblyReference.cache
+C:\Users\Ucenik08\Desktop\Knjiznica-master\Knjiznica-master\obj\Debug\Knjiznica.Properties.Resources.resources
+C:\Users\Ucenik08\Desktop\Knjiznica-master\Knjiznica-master\obj\Debug\Knjiznica.csproj.GenerateResource.cache
+C:\Users\Ucenik08\Desktop\Knjiznica-master\Knjiznica-master\obj\Debug\Knjiznica.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik08\Desktop\Knjiznica-master\Knjiznica-master\obj\Debug\Knjiznica.exe
+C:\Users\Ucenik08\Desktop\Knjiznica-master\Knjiznica-master\obj\Debug\Knjiznica.pdb
+C:\Users\Ucenik08\Desktop\Knjiznica-master\Knjiznica-master\obj\Debug\Knjiznica.Forme.Ucenici.resources
+C:\Users\Ucenik08\Desktop\Knjiznica-master\Knjiznica-master\obj\Debug\Knjiznica.Forme.DetaljiPosudbe.resources
+C:\Users\Ucenik08\Desktop\Knjiznica-master\Knjiznica-master\obj\Debug\Knjiznica.Forme.DetaljiUcenika.resources
+C:\Users\Ucenik08\Desktop\Knjiznica-master\Knjiznica-master\obj\Debug\Knjiznica.Forme.Knjige.resources
+C:\Users\Ucenik08\Desktop\Knjiznica-master\Knjiznica-master\obj\Debug\Knjiznica.Forme.frmKnjiznica.resources

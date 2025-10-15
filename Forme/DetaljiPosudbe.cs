@@ -7,13 +7,18 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Knjiznica
+namespace Knjiznica.Forme
 {
-    public partial class Form1 : Form
+    public partial class DetaljiPosudbe : Form
     {
-        public Form1()
+        public DetaljiPosudbe()
         {
             InitializeComponent();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
