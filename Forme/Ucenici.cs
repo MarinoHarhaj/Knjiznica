@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Knjiznica.Model;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -11,12 +12,21 @@ namespace Knjiznica.Forme
 {
     public partial class Ucenici : Form
     {
-        public Ucenici()
+
+        PodatkovniKontekst Kontekst;
+
+        public Ucenici(PodatkovniKontekst kontekst)
         {
             InitializeComponent();
+            this.Kontekst = kontekst;
         }
 
         private void Ucenici_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnDodaj_Click(object sender, EventArgs e)
         {
 
         }

@@ -33,6 +33,10 @@
             this.btnUredi = new System.Windows.Forms.Button();
             this.btnVrati = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.uceniciToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.knjigeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // lbPosudbe
@@ -79,18 +83,47 @@
             this.label1.TabIndex = 4;
             this.label1.Text = "Posuđene knjige";
             // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.uceniciToolStripMenuItem,
+            this.knjigeToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
+            this.menuStrip1.TabIndex = 5;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // uceniciToolStripMenuItem
+            // 
+            this.uceniciToolStripMenuItem.Name = "uceniciToolStripMenuItem";
+            this.uceniciToolStripMenuItem.Size = new System.Drawing.Size(58, 20);
+            this.uceniciToolStripMenuItem.Text = "Ucenici";
+            this.uceniciToolStripMenuItem.Click += new System.EventHandler(this.uceniciToolStripMenuItem_Click);
+            // 
+            // knjigeToolStripMenuItem
+            // 
+            this.knjigeToolStripMenuItem.Name = "knjigeToolStripMenuItem";
+            this.knjigeToolStripMenuItem.Size = new System.Drawing.Size(52, 20);
+            this.knjigeToolStripMenuItem.Text = "Knjige";
+            // 
             // frmKnjiznica
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 360);
+            this.ClientSize = new System.Drawing.Size(800, 375);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnVrati);
             this.Controls.Add(this.btnUredi);
             this.Controls.Add(this.btnPosudi);
             this.Controls.Add(this.lbPosudbe);
+            this.Controls.Add(this.menuStrip1);
+            this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmKnjiznica";
             this.Text = "Knjižnica";
+            this.Load += new System.EventHandler(this.frmKnjiznica_Load);
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -103,5 +136,8 @@
         private System.Windows.Forms.Button btnUredi;
         private System.Windows.Forms.Button btnVrati;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem uceniciToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem knjigeToolStripMenuItem;
     }
 }

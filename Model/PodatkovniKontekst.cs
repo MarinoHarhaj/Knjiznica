@@ -20,7 +20,7 @@ namespace Knjiznica.Model
         {
             Ucenici = UcitajUcenike();
         }
-        public List<Ucenik> UcitajUcenike()
+        private List<Ucenik> UcitajUcenike()
         {
             List<Ucenik> rezultat = new List<Ucenik>();
 
@@ -28,7 +28,7 @@ namespace Knjiznica.Model
             {
                 using (StreamReader sr = new StreamReader(datUcenici))
                 {
-                    while (sr.EndOfStream)
+                    while (!sr.EndOfStream)
 
                     {
                         string Linija = sr.ReadLine();
@@ -49,6 +49,18 @@ namespace Knjiznica.Model
             }
 
             return rezultat;
+        }
+
+        public void SpremiUcenike()
+        {
+            using (StreamWriter sw = new StreamWriter(datUcenici))
+            {
+                foreach (Ucenik u in this.Ucenici)
+                {
+                    sw.WriteLine($"{u.OIB}|{u.Ime}|{u.Prezime}|{u.Adresa}|{u.Telefon}|{u.Razred}");
+
+                }
+            }
         }
     }
 }

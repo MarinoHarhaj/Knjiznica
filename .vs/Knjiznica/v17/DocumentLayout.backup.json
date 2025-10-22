@@ -7,11 +7,27 @@
       "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:model\\podatkovnikontekst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|c:\\users\\ucenik08\\desktop\\knjiznica-master\\knjiznica-master\\model\\ucenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\model\\ucenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:model\\ucenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|c:\\users\\ucenik08\\desktop\\knjiznica-master\\knjiznica-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\forme\\ucenici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\ucenici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\forme\\ucenici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\ucenici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\forme\\frmknjiznica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\frmknjiznica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\forme\\frmknjiznica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\frmknjiznica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,8 +38,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ucenici.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\Forme\\Ucenici.cs",
+              "RelativeDocumentMoniker": "Forme\\Ucenici.cs",
+              "ToolTip": "C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\Forme\\Ucenici.cs [Design]",
+              "RelativeToolTip": "Forme\\Ucenici.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:03:26.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ucenici.cs",
+              "DocumentMoniker": "C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\Forme\\Ucenici.cs",
+              "RelativeDocumentMoniker": "Forme\\Ucenici.cs",
+              "ToolTip": "C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\Forme\\Ucenici.cs",
+              "RelativeToolTip": "Forme\\Ucenici.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:00:56.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmKnjiznica.cs",
+              "DocumentMoniker": "C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\Forme\\frmKnjiznica.cs",
+              "RelativeDocumentMoniker": "Forme\\frmKnjiznica.cs",
+              "ToolTip": "C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\Forme\\frmKnjiznica.cs",
+              "RelativeToolTip": "Forme\\frmKnjiznica.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:57:29.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmKnjiznica.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\Forme\\frmKnjiznica.cs",
+              "RelativeDocumentMoniker": "Forme\\frmKnjiznica.cs",
+              "ToolTip": "C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\Forme\\frmKnjiznica.cs [Design]",
+              "RelativeToolTip": "Forme\\frmKnjiznica.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:54:41.784Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +94,7 @@
               "RelativeDocumentMoniker": "Model\\PodatkovniKontekst.cs",
               "ToolTip": "C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\Model\\PodatkovniKontekst.cs",
               "RelativeToolTip": "Model\\PodatkovniKontekst.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T10:11:42.79Z",
               "EditorCaption": ""
@@ -47,12 +109,11 @@
               "RelativeToolTip": "Model\\Ucenik.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:07:25.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T10:07:25.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ucenik08\\Desktop\\Knjiznica-master\\Knjiznica-master\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -60,8 +121,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:07:04.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T10:07:04.348Z"
             }
           ]
         }
