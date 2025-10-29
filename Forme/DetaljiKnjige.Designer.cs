@@ -152,12 +152,13 @@
             this.btnOK.TabIndex = 10;
             this.btnOK.Text = "OK";
             this.btnOK.UseVisualStyleBackColor = true;
+            this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
             // 
             // DetaljiKnjige
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(641, 321);
+            this.ClientSize = new System.Drawing.Size(408, 321);
             this.Controls.Add(this.btnOK);
             this.Controls.Add(this.cbBrojPrimjeraka);
             this.Controls.Add(this.nudGodinaIzdanja);
@@ -171,6 +172,7 @@
             this.Controls.Add(this.label1);
             this.Name = "DetaljiKnjige";
             this.Text = "DetaljiKnjige";
+            this.Load += new System.EventHandler(this.DetaljiKnjige_Load);
             ((System.ComponentModel.ISupportInitialize)(this.nudGodinaIzdanja)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

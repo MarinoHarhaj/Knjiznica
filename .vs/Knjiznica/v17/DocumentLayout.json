@@ -3,60 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|c:\\users\\marin\\onedrive\\desktop\\knjiznica-master (1)\\knjiznica-master\\forme\\knjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\knjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|c:\\users\\marin\\onedrive\\desktop\\knjiznica-master (1)\\knjiznica-master\\forme\\knjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\knjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|c:\\users\\marin\\onedrive\\desktop\\knjiznica-master (1)\\knjiznica-master\\forme\\knjige.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\knjige.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|c:\\users\\marin\\onedrive\\desktop\\knjiznica-master (1)\\knjiznica-master\\forme\\detaljiknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\detaljiknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\forme\\frmknjiznica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\frmknjiznica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\forme\\frmknjiznica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\frmknjiznica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|c:\\users\\marin\\onedrive\\desktop\\knjiznica-master (1)\\knjiznica-master\\model\\podatkovnikontekst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:model\\podatkovnikontekst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\forme\\ucenici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\ucenici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\forme\\ucenici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\ucenici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|c:\\users\\marin\\onedrive\\desktop\\knjiznica-master (1)\\knjiznica-master\\forme\\detaljiucenika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\forme\\detaljiucenika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\detaljiucenika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|c:\\users\\marin\\onedrive\\desktop\\knjiznica-master (1)\\knjiznica-master\\forme\\detaljiucenika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\forme\\knjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\knjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\forme\\detaljiucenika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\detaljiucenika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|c:\\users\\marin\\onedrive\\desktop\\knjiznica-master (1)\\knjiznica-master\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\forme\\detaljiknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\detaljiknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\model\\ucenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:model\\ucenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\forme\\detaljiknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\detaljiknjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\forme\\knjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F18927-BFCA-4457-84E2-00AD0E543B7F}|Knjiznica.csproj|solutionrelative:forme\\knjige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,182 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Knjige.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\Knjige.Designer.cs",
-              "RelativeDocumentMoniker": "Forme\\Knjige.Designer.cs",
-              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\Knjige.Designer.cs",
-              "RelativeToolTip": "Forme\\Knjige.Designer.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAASwF0AAAA9AAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "DetaljiKnjige.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\DetaljiKnjige.cs",
+              "RelativeDocumentMoniker": "Forme\\DetaljiKnjige.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\DetaljiKnjige.cs",
+              "RelativeToolTip": "Forme\\DetaljiKnjige.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAArwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T19:14:13.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Knjige.cs",
-              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\Knjige.cs",
-              "RelativeDocumentMoniker": "Forme\\Knjige.cs",
-              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\Knjige.cs",
-              "RelativeToolTip": "Forme\\Knjige.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T19:12:36.004Z",
+              "WhenOpened": "2025-10-29T19:27:30.711Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Knjige.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\Knjige.cs",
-              "RelativeDocumentMoniker": "Forme\\Knjige.cs",
-              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\Knjige.cs [Design]",
-              "RelativeToolTip": "Forme\\Knjige.cs [Design]",
+              "Title": "DetaljiUcenika.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\DetaljiUcenika.cs",
+              "RelativeDocumentMoniker": "Forme\\DetaljiUcenika.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\DetaljiUcenika.cs",
+              "RelativeToolTip": "Forme\\DetaljiUcenika.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T19:12:32.945Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-29T19:54:28.199Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "PodatkovniKontekst.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Model\\PodatkovniKontekst.cs",
+              "RelativeDocumentMoniker": "Model\\PodatkovniKontekst.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Model\\PodatkovniKontekst.cs",
+              "RelativeToolTip": "Model\\PodatkovniKontekst.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAArwDcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T19:42:37.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DetaljiKnjige.cs [Design]",
               "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\DetaljiKnjige.cs",
               "RelativeDocumentMoniker": "Forme\\DetaljiKnjige.cs",
               "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\DetaljiKnjige.cs [Design]",
               "RelativeToolTip": "Forme\\DetaljiKnjige.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T18:55:28.38Z",
+              "WhenOpened": "2025-10-29T19:27:26.472Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DetaljiUcenika.cs",
-              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\DetaljiUcenika.cs",
-              "RelativeDocumentMoniker": "Forme\\DetaljiUcenika.cs",
-              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\DetaljiUcenika.cs",
-              "RelativeToolTip": "Forme\\DetaljiUcenika.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAqwDAAAAARAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Knjige.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\Knjige.cs",
+              "RelativeDocumentMoniker": "Forme\\Knjige.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\Knjige.cs",
+              "RelativeToolTip": "Forme\\Knjige.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwEQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T18:29:21.361Z",
+              "WhenOpened": "2025-10-29T19:23:54.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "DetaljiUcenika.cs [Design]",
               "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\DetaljiUcenika.cs",
               "RelativeDocumentMoniker": "Forme\\DetaljiUcenika.cs",
               "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\DetaljiUcenika.cs [Design]",
               "RelativeToolTip": "Forme\\DetaljiUcenika.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T18:29:20.11Z",
+              "WhenOpened": "2025-10-29T19:23:49.302Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Helper.cs",
-              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Helper.cs",
-              "RelativeDocumentMoniker": "Helper.cs",
-              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Helper.cs",
-              "RelativeToolTip": "Helper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Knjige.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\Knjige.cs",
+              "RelativeDocumentMoniker": "Forme\\Knjige.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\Knjige.cs [Design]",
+              "RelativeToolTip": "Forme\\Knjige.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T18:20:56.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Ucenici.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\Ucenici.cs",
-              "RelativeDocumentMoniker": "Forme\\Ucenici.cs",
-              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\Ucenici.cs [Design]",
-              "RelativeToolTip": "Forme\\Ucenici.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T16:03:26.203Z",
+              "WhenOpened": "2025-10-29T19:23:44.971Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Ucenici.cs",
-              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\Ucenici.cs",
-              "RelativeDocumentMoniker": "Forme\\Ucenici.cs",
-              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\Ucenici.cs",
-              "RelativeToolTip": "Forme\\Ucenici.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAqwEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T16:00:56.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmKnjiznica.cs",
-              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\frmKnjiznica.cs",
-              "RelativeDocumentMoniker": "Forme\\frmKnjiznica.cs",
-              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\frmKnjiznica.cs",
-              "RelativeToolTip": "Forme\\frmKnjiznica.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAywCIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T15:57:29.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmKnjiznica.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\frmKnjiznica.cs",
-              "RelativeDocumentMoniker": "Forme\\frmKnjiznica.cs",
-              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Forme\\frmKnjiznica.cs [Design]",
-              "RelativeToolTip": "Forme\\frmKnjiznica.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T15:54:41.784Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PodatkovniKontekst.cs",
-              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Model\\PodatkovniKontekst.cs",
-              "RelativeDocumentMoniker": "Model\\PodatkovniKontekst.cs",
-              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Model\\PodatkovniKontekst.cs",
-              "RelativeToolTip": "Model\\PodatkovniKontekst.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAmwAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:11:42.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Ucenik.cs",
-              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Model\\Ucenik.cs",
-              "RelativeDocumentMoniker": "Model\\Ucenik.cs",
-              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Model\\Ucenik.cs",
-              "RelativeToolTip": "Model\\Ucenik.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:07:25.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\marin\\OneDrive\\Desktop\\Knjiznica-master (1)\\Knjiznica-master\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:07:04.348Z"
             }
           ]
         }

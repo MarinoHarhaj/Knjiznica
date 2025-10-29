@@ -60,6 +60,7 @@
             this.btnDodaj.TabIndex = 2;
             this.btnDodaj.Text = "Dodaj";
             this.btnDodaj.UseVisualStyleBackColor = true;
+            this.btnDodaj.Click += new System.EventHandler(this.btnDodaj_Click);
             // 
             // btnUredi
             // 
@@ -69,6 +70,7 @@
             this.btnUredi.TabIndex = 3;
             this.btnUredi.Text = "Uredi";
             this.btnUredi.UseVisualStyleBackColor = true;
+            this.btnUredi.Click += new System.EventHandler(this.btnUredi_Click);
             // 
             // btnObrisi
             // 
@@ -78,6 +80,7 @@
             this.btnObrisi.TabIndex = 4;
             this.btnObrisi.Text = "Obrisi";
             this.btnObrisi.UseVisualStyleBackColor = true;
+            this.btnObrisi.Click += new System.EventHandler(this.btnObrisi_Click);
             // 
             // Knjige
             // 

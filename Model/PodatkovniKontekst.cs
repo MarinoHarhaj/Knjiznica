@@ -60,20 +60,33 @@ namespace Knjiznica.Model
                 using (StreamReader sr = new StreamReader(datKnjige))
                 {
                     while (!sr.EndOfStream)
-
                     {
                         string Linija = sr.ReadLine();
-                        //Splitamo liniju i definiramo bojekt ucenik
-                        Knjiga trenutnaKnjiga = new Knjiga();
-                        string[] polja = Linija.Split('|');
-                        trenutnaKnjiga.ISBN = polja[0];
-                        trenutnaKnjiga.Autor = polja[1];
-                        trenutnaKnjiga.Naslov = polja[2];
-                        trenutnaKnjiga.GodinaIzdanja = int.Parse(polja[3]);
-                        trenutnaKnjiga.BrojPrimjeraka = int.Parse(polja[4]);
-                        
 
-                        //dodajemo pročitanog ucenik u listu
+                        // Skip empty or invalid lines
+                        if (Linija == null || Linija.Trim() == "")
+
+
+                            continue;
+
+                        string[] polja = Linija.Split('|');
+
+                        // Check that the line has at least 5 fields
+                        if (polja.Length < 5)
+                        {
+                            Console.WriteLine($"⚠️ Neispravan redak u datoteci: '{Linija}'");
+                            continue;
+                        }
+
+                        Knjiga trenutnaKnjiga = new Knjiga
+                        {
+                            ISBN = polja[0],
+                            Autor = polja[1],
+                            Naslov = polja[2],
+                            GodinaIzdanja = int.Parse(polja[3]),
+                            BrojPrimjeraka = int.Parse(polja[4])
+                        };
+
                         rezultat.Add(trenutnaKnjiga);
                     }
                 }
@@ -81,6 +94,7 @@ namespace Knjiznica.Model
 
             return rezultat;
         }
+
 
         public void SpremiKnjige()
         {

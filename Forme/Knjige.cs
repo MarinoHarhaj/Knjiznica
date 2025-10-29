@@ -15,9 +15,6 @@ namespace Knjiznica.Forme
 
         public PodatkovniKontekst kontekst;
 
-
-
-
         public Knjige(PodatkovniKontekst kontekst)
         {
             InitializeComponent();
@@ -26,7 +23,58 @@ namespace Knjiznica.Forme
 
         private void Knjige_Load(object sender, EventArgs e)
         {
+            OsvjeziKnjige();
+        }
 
+        private void OsvjeziKnjige()
+        {
+            Helper.PrikaziListuUListBoxu<Knjiga>(this.kontekst.Knjige, lbKnjige);
+        }
+
+        private void btnDodaj_Click(object sender, EventArgs e)
+        {
+            DetaljiKnjige detaljiKnjige = new DetaljiKnjige();
+
+            if (detaljiKnjige.ShowDialog() == DialogResult.OK)
+            {
+                this.kontekst.DodajKnjigu(detaljiKnjige.Knjiga);
+                OsvjeziKnjige();
+            }
+        }
+
+        private void btnUredi_Click(object sender, EventArgs e)
+        {
+            if (lbKnjige.SelectedItem == null)
+            {
+                MessageBox.Show("Molim te odaberi knjigu");
+            }
+            else
+            {
+                DetaljiKnjige detaljiKnjige = new DetaljiKnjige();
+                detaljiKnjige.Knjiga = (Knjiga)lbKnjige.SelectedItem;
+
+                if (detaljiKnjige.ShowDialog() == DialogResult.OK)
+                {
+                    this.kontekst.SpremiKnjige();
+                    OsvjeziKnjige();
+                }
+
+            }
+        }
+
+        private void btnObrisi_Click(object sender, EventArgs e)
+        {
+
+            if (lbKnjige.SelectedItem == null)
+            {
+                MessageBox.Show("Molim te odaberi knjigu");
+            }
+            else
+            {
+
+                this.kontekst.BrisiKnjigu((Knjiga)lbKnjige.SelectedItem);
+                OsvjeziKnjige();
+            }
         }
     }
 }
