@@ -55,6 +55,7 @@
             this.btnPosudi.TabIndex = 1;
             this.btnPosudi.Text = "Posudi";
             this.btnPosudi.UseVisualStyleBackColor = true;
+            this.btnPosudi.Click += new System.EventHandler(this.btnPosudi_Click);
             // 
             // btnUredi
             // 
@@ -64,6 +65,7 @@
             this.btnUredi.TabIndex = 2;
             this.btnUredi.Text = "Uredi";
             this.btnUredi.UseVisualStyleBackColor = true;
+            this.btnUredi.Click += new System.EventHandler(this.btnUredi_Click);
             // 
             // btnVrati
             // 
@@ -73,6 +75,7 @@
             this.btnVrati.TabIndex = 3;
             this.btnVrati.Text = "Vrati";
             this.btnVrati.UseVisualStyleBackColor = true;
+            this.btnVrati.Click += new System.EventHandler(this.btnVrati_Click);
             // 
             // label1
             // 

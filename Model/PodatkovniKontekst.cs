@@ -17,11 +17,27 @@ namespace Knjiznica.Model
 
         private string datUcenici = "ucenici.txt";
         private string datKnjige = "knjige.txt";
+        private string datPosudbe = "posudbe.txt";
+
         public PodatkovniKontekst()
         {
             Ucenici = UcitajUcenike();
             Knjige = UcitajKnjige();
+            Posudbe = UcitajPosudbe();
         }
+
+        public void DodajPosudbu(Posudba posduba)
+        {
+            this.Posudbe.Add(posduba);
+            SpremiPosudbe();
+        }
+
+        public void BrisiPosudbu(Posudba posudba)
+        {
+            this.Posudbe.Remove(posudba);
+            SpremiPosudbe();
+        }
+
 
         public void DodajKnjigu(Knjiga knjiga)
         {
@@ -34,6 +50,7 @@ namespace Knjiznica.Model
             this.Knjige.Remove(knjiga);
             SpremiKnjige();
         }
+
 
 
         public void DodajUcenika(Ucenik ucenik)
@@ -141,6 +158,10 @@ namespace Knjiznica.Model
             return rezultat;
         }
 
+
+
+
+
         public void SpremiUcenike()
         {
             using (StreamWriter sw = new StreamWriter(datUcenici))
@@ -148,6 +169,74 @@ namespace Knjiznica.Model
                 foreach (Ucenik u in this.Ucenici)
                 {
                     sw.WriteLine($"{u.OIB}|{u.Ime}|{u.Prezime}|{u.Adresa}|{u.Telefon}|{u.Razred}");
+
+                }
+            }
+        }
+
+
+        private List<Posudba> UcitajPosudbe()
+        {
+            List<Posudba> rezultat = new List<Posudba>();
+
+            if (File.Exists(datPosudbe))
+            {
+                using (StreamReader sr = new StreamReader(datPosudbe))
+                {
+                    while (!sr.EndOfStream)
+                    {
+                        string Linija = sr.ReadLine();
+
+                        
+                        if (Linija == null || Linija.Trim() == "")
+
+
+                            continue;
+
+                        string[] polja = Linija.Split('|');
+
+                    
+                        if (polja.Length < 5)
+                        {
+                            Console.WriteLine($"Neispravan redak u datoteci: '{Linija}'");
+                            continue;
+                        }
+
+                        
+
+                        Posudba trenutnaPosudba = new Posudba()
+                        {
+                            Ucenik = this.Ucenici.Find(
+                                delegate(Ucenik ucenik)
+                                {
+                                    return ucenik.OIB == polja[0];
+                                }),                                                    
+
+                            Knjiga = this.Knjige.Find(
+                                delegate (Knjiga knjiga)
+                                {
+                                    return knjiga.ISBN == polja[1];
+                                }),            
+                            
+                            DatumPosudbe = DateTime.Parse(polja[2]),
+                            BrojDana = int.Parse(polja[3]),
+                        };
+
+                        rezultat.Add(trenutnaPosudba);
+                    }
+                }
+            }
+
+            return rezultat;
+        }
+
+        public void SpremiPosudbe()
+        {
+            using (StreamWriter sw = new StreamWriter(datPosudbe))
+            {
+                foreach (Posudba p in this.Posudbe)
+                {
+                    sw.WriteLine($"{p.Ucenik.OIB}|{p.Knjiga.ISBN}|{p.DatumPosudbe}|{p.BrojDana}");
 
                 }
             }
